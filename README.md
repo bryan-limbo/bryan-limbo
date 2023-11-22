@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">A passionate data analyst with a keen interest in extracting meaningful insights from data!</h3>
+<h4 align="center">A passionate data analyst with a keen interest in extracting meaningful insights from data!</h4>
+
+- 👨‍💻 All of my projects are available at [www.bryanalyst.com](www.bryanalyst.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bryan-limbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-limbo" height="30" width="40" /></a>
+<a href="https://instagram.com/bryanlimbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanlimbo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
