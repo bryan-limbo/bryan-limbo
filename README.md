@@ -5,7 +5,6 @@
 ## 🔍 About Me
 
 - **Education:** Data Analytics @ BCIT
-- 
 
 
 ## 🚀 Skills
