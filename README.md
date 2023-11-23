@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate data analyst with a keen interest in extracting meaningful insights from data!</h3>
 
-- 👨‍💻 All of my projects are available at [www.bryanalyst.com](www.bryanalyst.com)
+### 🔍 About Me
 
-## Skills
+- **Education:** Data Analytics @ BCIT
 
-- **Data Cleaning and Preprocessing:** Transforming raw data into a usable format for analysis.
-- **Exploratory Data Analysis (EDA):** Uncovering patterns, trends, and anomalies in datasets.
-- **Statistical Analysis:** Applying statistical methods to draw meaningful conclusions.
-- **Data Visualization:** Creating compelling visualizations with tools like Matplotlib, Plotly, and Tableau.
-- **SQL and Database Management:** Proficient in querying databases for data retrieval and manipulation.
+### 🚀 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Data Analysis:** Pandas, NumPy, Jupyter Notebook
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Database Management:** MySQL, PostgreSQL
+
+### 📊 Projects 
+
+All of my projects are available at [www.bryanalyst.com](www.bryanalyst.com)
+
+### 🌐 Connect with Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
