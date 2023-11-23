@@ -9,7 +9,7 @@
 
 ## 🚀 Skills
 
-- **Database Management:** Querying databases for data retrieval and manipulation
+- **Database Management:** Querying databases for data retrieval and manipulation.
 - **Data Cleaning:** Turning raw data into a usable format for analysis.
 - **Exploratory Data Analysis (EDA):** Uncovering patterns, trends, and anomalies in datasets.
 - **Data Visualization:** Creating compelling visualizations using Matplotlib and Tableau.
