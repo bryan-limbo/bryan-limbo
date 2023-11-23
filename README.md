@@ -5,14 +5,14 @@
 ## 🔍 About Me
 
 - **Education:** Data Analytics @ BCIT
-- 
+
 
 ## 🚀 Skills
 
 - **Data Analysis:** Pandas, NumPy, Jupyter Notebook
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
 - **Database Management:** MySQL, PostgreSQL
-- 
+
 
 ## 📊 Projects 
 
