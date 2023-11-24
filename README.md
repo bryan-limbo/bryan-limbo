@@ -17,7 +17,7 @@
 
 ## 📊 Projects 
 
-All of my projects are available at [www.bryanalyst.com](www.bryanalyst.com)
+All of my projects are available at [www.bryanalyst.com](https://www.bryanalyst.com)
 
 
 ## Connect with Me
