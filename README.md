@@ -23,6 +23,6 @@ All of my projects are available at [www.bryanalyst.com](https://www.bryanalyst.
 ## Connect with Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/bryan-lim/](https://www.linkedin.com/in/bryan-lim/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lim" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/bryan-lim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-lim" height="20" width="30" /></a>
 <a href="https://instagram.com/bryanlimbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryanlimbo" height="20" width="30" /></a>
 </p>
